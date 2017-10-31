@@ -12,7 +12,7 @@
 },
 "train":{
     "keep_model_in_mem":0,
-    //"model_cache_dir":"/mnt/raid/fengji/gcforest/mnist/fg-tree500-depth100-3folds/models",
+    "model_cache_dir":"/home/arjoonn/gcForest/workspace/models",
     "random_state":0,
     "data_cache":{
         "cache_in_disk":{
@@ -21,7 +21,7 @@
         "keep_in_mem":{
             "default":0
         },
-        "cache_dir":"/mnt/raid/fengji/gcforest/mnist/fg-tree500-depth100-3folds/datas"
+        "cache_dir":"/home/arjoonn/gcForest/workspace/datas"
     }
 },
 "net":{
